@@ -1,0 +1,13 @@
+name: node
+
+fields:
+  name:
+    type: string
+  description:
+    type: string
+  image:
+    type: string
+  url:
+    type: string
+  details:
+    type: string
